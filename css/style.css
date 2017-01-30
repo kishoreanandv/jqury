@@ -1,0 +1,25 @@
+body{
+	background: url(../img/img21.jpg) ;
+
+      //background-size: cover;
+}
+
+h1 {
+	text-align: center;
+}
+
+h3{
+	text-align: center;
+}
+
+ul {
+
+	list-style: none;
+
+}
+
+ul li{
+	padding-top: 20px;
+	font-size: 30px;
+
+}
